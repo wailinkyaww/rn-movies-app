@@ -65,4 +65,3 @@ android/.idea
 android/build
 android/app/build
 android/app/release
-android/app/src/debug
